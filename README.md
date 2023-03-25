@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Engineering and Software Devlopment
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on projects and learn from others
-- 📫 How to reach me email me at fairwaller13@gmail.com
+- 📫 How to reach me email me at farahwaller@gmail.com
 
 <!---
 Fairybby/Fairybby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
