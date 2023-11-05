@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fairybby
 - 👀 I’m interested in Software Engineering and Software Devlopment
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on projects and learn from others
 - 📫 How to reach me email me at farahwaller@gmail.com
 
